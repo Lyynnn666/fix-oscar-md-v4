@@ -39,63 +39,63 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285850539404', '𝙹𝚊𝚛𝚘𝚝 𝙾𝚏𝚏𝚌', true],
-['6285943036511', '𝙾𝚜𝚌𝚊𝚛', true]
+['6283890585717', 'Tsyaa.', true],
+['77003156466', 'Lynn.', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '0'
-global.nomorown = '6285850539404'
-global.nomorown1 = '6285850539404'
-global.nomorown2 = '6285943036511'
+global.nomorown = '6283890585717'
+global.nomorown1 = '6283890585717'
+global.nomorown2 = '77003156466'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = '𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 𝙹𝚊𝚛𝚘𝚝 𝚇 𝙾𝚜𝚌𝚊𝚛'
-global.namebot = '𝙾𝚜𝚌𝚊𝚛-𝙼𝚞𝚕𝚝𝚒𝚍𝚎𝚟𝚒𝚌𝚎'
-global.wm = '© 𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 𝙹𝚊𝚛𝚘𝚝 𝙾𝚏𝚏𝚌 𝚇 𝙾𝚜𝚌𝚊𝚛'
+global.author = '𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 L y n n 亥'
+global.namebot = 'L y n n 亥'
+global.wm = '© 𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 L y n n 亥'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
-global.wm2 = '𝙹𝚊𝚛𝚘𝚝 𝚇 𝙾𝚜𝚌𝚊𝚛'
+global.wm2 = 'L y n n 亥'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
-global.packname2 = '𝙹𝚊𝚛𝚘𝚝 𝚇 𝙾𝚜𝚌𝚊𝚛'
+global.packname2 = 'L y n n 亥'
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝙹𝚊𝚛𝚘𝚝 𝚇 𝙾𝚜𝚌𝚊𝚛`
-global.stickpack = '𝙹𝚊𝚛𝚘𝚝 𝚇 𝚘𝚜𝚌𝚊𝚛'
-global.stickauth = `𝙹𝚊𝚛𝚘𝚝 𝚇 𝙾𝚜𝚌𝚊𝚛`
+global.titlebot = `L y n n 亥`
+global.stickpack = 'L y n n 亥'
+global.stickauth = `L y n n 亥`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '𝙹𝚊𝚛𝚘𝚝 𝚘𝚏𝚏𝚌'
-global.nameown2 = '𝙾𝚜𝚌𝚊𝚛'
+global.nameown1= 'Tsyaa.'
+global.nameown2 = 'Lynn.'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = '𝚆𝚊𝚒𝚝'
 global.lynk = ''
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/jarotr_'
-global.sgh = 'https://github.com/Alpiii22' //github
-global.sgc = 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL' //group whatsapp
+global.sig = '_'
+global.sgh = '_' //github
+global.sgc = 'https://chat.whatsapp.com/JvJynxPPUr77QaB6iL25Ed' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+global.snh = 'https://youtube.com/channel/UCauQ8ous-UOTqj27lEtKUhQ'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '085850539404'
+global.pdana = '083830815715'
 global.povo = '-'
 global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '085850539404'
-global.ppulsa2 = '085850539404'
-global.psaweria = 'https://saweria.co/jarotoffc'
+global.ppulsa = '083890585717'
+global.ppulsa2 = '083830815715'
+global.psaweria = '_'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ListHargaSewa = '├ 5 Hari IDR 5.000\n├ 7 Hari IDR 10.000\n├ 15+5 Hari IDR 13.000\n├ 30 Hari IDR 15.000'
+global.ListHargaSewa = 'Gak Open Sewa.'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.LyAtas1 = '☰ ━━━ ❨'
 global.LyAtas2 = '❩ ━━┄┈ •⟅'
@@ -264,10 +264,10 @@ global.drtf = 'text/rtf'
 //OPTIONS
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
-global.thumb = 'https://telegra.ph/file/cbfa09b8a2cfd054aa50c.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/cbfa09b8a2cfd054aa50c.jpg'
+global.thumb = 'https://telegra.ph/file/7bb99f0189003836e566b.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/35ee92184e7d410627c67.jpg'
 global.giflogo = 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.mp4'
-global.thumbs = ['https://telegra.ph/file/cbfa09b8a2cfd054aa50c.jpg']
+global.thumbs = ['https://telegra.ph/file/7bb99f0189003836e566b.jpg']
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
   'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
@@ -304,10 +304,10 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 'https://telegra.ph/file/180e28807e78419d45537.jpg','https://telegra.ph/file/140eff27be983e0cd6781.jpg','https://telegra.ph/file/1581b791e16d0029e16b5.jpg','https://telegra.ph/file/6a4b36372b4f265bae3bc.jpg','https://telegra.ph/file/093caff422f194f00bc6c.jpg','https://telegra.ph/file/2294b7ab49eca8a8046b2.jpg','https://telegra.ph/file/869224d1c417e8b5c8ff1.jpg','https://telegra.ph/file/a78443f0ee887f46808d7.jpg','https://telegra.ph/file/1889878933264d16c58bf.jpg','https://telegra.ph/file/735aeb47d9c4aa87aaaf3.jpg','https://telegra.ph/file/fcf861516db09dda164e0.jpg','https://telegra.ph/file/355d96d7e06d109435f67.jpg']
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 
-global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://instagram.com/jarotr_"
+global.dtu = 'YT'
+global.urlnya = "https://youtube.com/channel/UCauQ8ous-UOTqj27lEtKUhQ"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '085850539404'
+global.phn = '083890585717'
 
 global.thumbdoc = 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
