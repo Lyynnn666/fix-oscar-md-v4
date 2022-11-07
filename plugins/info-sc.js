@@ -46,6 +46,7 @@ let scnya = `⟥⟝❨ 𝙽𝚒𝚑 ${tag} ❩⟝⟤`
 handler.help = ['sc']
 handler.tags = ['info']
 handler.command = ['sc','sourlcode']
+handler.rowner = true
 
 export default handler
 
