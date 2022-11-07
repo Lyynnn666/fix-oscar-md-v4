@@ -58,7 +58,7 @@ item6.X-ABLabel:Gakda ig
 item7.URL:𝚈𝚘𝚞𝚝𝚞𝚋𝚎: Lynn
 item7.X-ABLabel: 𝚂𝚞𝚜𝚌𝚛𝚒𝚋𝚎 𝙲𝚑𝚊𝚗𝚎𝚕 𝚓𝚊𝚛𝚘𝚝
 item1.TEL;waid=77003156466:77003156466@s.whatsapp.net
-item1.X-ABLabel: My
+item1.X-ABLabel: Lynn.
 END:VCARD`
 const sentMsg  = await conn.sendMessage(
     m.chat,
